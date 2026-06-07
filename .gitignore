@@ -1,0 +1,23 @@
+# model files
+final-indobertweet-comment-sentiment/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.pkl
+*.ckpt
+
+# cache
+__pycache__/
+.ipynb_checkpoints/
+.cache/
+logs/
+runs/
+
+# python env
+venv/
+.env/
+.venv/
+
+# streamlit
+.streamlit/secrets.toml

@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+openpyxl
+torch
+transformers
+datasets
+accelerate
+evaluate
+streamlit
+plotly
+wordcloud
+matplotlib
